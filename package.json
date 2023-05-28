@@ -1,0 +1,41 @@
+{
+  "name": "@modelomaker812/hypernat-keygen",
+  "version": "1.0.0",
+  "main": "keygen.js",
+  "scripts": {
+    "start": "node keygen.js"
+  },
+  "keywords": [],
+  "author": "modelomaker812",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/secret-stream": "^6.1.0",
+    "@hyperswarm/testnet": "^3.1.1",
+    "commander": "^9.4.1",
+    "compact-encoding": "^2.11.0",
+    "graceful-goodbye": "^1.1.0",
+    "hyperdht": "^6.5.2",
+    "keypear": "^1.1.1",
+    "protomux": "^3.4.0",
+    "pump": "^3.0.0",
+    "read-file-live": "^1.0.1",
+    "ready-resource": "^1.0.0",
+    "safety-catch": "^1.0.2",
+    "tar-fs": "^2.1.1",
+    "tiny-configs": "^1.1.0",
+    "tt-native": "^1.0.2"
+  },
+  "devDependencies": {
+    "brittle": "^3.1.0",
+    "standard": "^17.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modelomaker812/hypernat-keygen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/modelomaker812/hypernat-keygen/issues"
+  },
+  "homepage": "https://github.com/modelomaker812/hypernat-keygen#readme",
+  "description": ""
+}
